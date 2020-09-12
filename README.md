@@ -10,5 +10,4 @@ El programa imprimirá el resultado esperado.
 
 El programa al finalizar, generará un archivo compareAloneLog en la misma carpeta donde se ubica el programa. Este archivo tendrá detalles de resultados de ejecución del programa.
 
-Nombre: Diego Gutiérrez Ulloa
-Rol: 201521066-7
+Nombre: Diego Gutiérrez Ulloa // Rol: 201521066-7
